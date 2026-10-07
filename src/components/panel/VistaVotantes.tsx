@@ -55,7 +55,6 @@ export function VistaVotantes({
     iniciar(() => router.replace(`${ruta}?${p.toString()}`, { scroll: false }));
   }
 
-  // Búsqueda por texto con pequeña espera
   useEffect(() => {
     if ((filtros.q ?? "") === q) return;
     const t = setTimeout(() => filtrar({ q }), 400);
@@ -143,7 +142,6 @@ export function VistaVotantes({
         </div>
       ) : (
         <>
-          {/* Tabla en pantallas grandes */}
           <div className="card hidden overflow-hidden md:block">
             <div className="overflow-x-auto">
               <table className="w-full text-left text-sm">
@@ -190,7 +188,6 @@ export function VistaVotantes({
             </div>
           </div>
 
-          {/* Tarjetas en móvil */}
           <div className="space-y-3 md:hidden">
             {votantes.map((v) => (
               <div key={v.id} className="card p-4">

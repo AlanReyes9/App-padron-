@@ -4,10 +4,8 @@ import type { Config, Sector } from "./tipos";
 const URL_BASE = process.env.SUPABASE_URL;
 const CLAVE = process.env.SUPABASE_PUBLISHABLE_KEY;
 
-/** Error devuelto por una función de la base de datos (código en `message`). */
 export class ErrorApi extends Error {}
 
-/** Llama a una función `fn_*` de Postgres a través de la API REST de Supabase. */
 export async function rpc<T>(fn: string, args: Record<string, unknown> = {}): Promise<T> {
   if (!URL_BASE || !CLAVE) throw new Error("Faltan SUPABASE_URL / SUPABASE_PUBLISHABLE_KEY");
   const res = await fetch(`${URL_BASE}/rest/v1/rpc/${fn}`, {

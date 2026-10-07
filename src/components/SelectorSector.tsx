@@ -4,14 +4,12 @@ import { useMemo, useRef, useState, useEffect } from "react";
 import { ChevronDown, MapPin, Search } from "lucide-react";
 import type { Sector } from "@/lib/tipos";
 
-/** Lista de provincias en orden alfabético. */
 export function provinciasDe(sectores: Sector[]) {
   return [...new Set(sectores.map((s) => s.provincia))].sort((a, b) => a.localeCompare(b, "es"));
 }
 
 const normal = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
-/** Campo de sector con búsqueda; muestra solo los sectores de la provincia elegida. */
 export function ComboSector({
   sectores,
   provincia,

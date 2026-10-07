@@ -26,8 +26,6 @@ async function conToken() {
   return t;
 }
 
-// ---------------------------------------------------------------- público
-
 export async function buscarCedula(cedula: string): Promise<Resultado<ResultadoBusqueda | null>> {
   return ejecutar<ResultadoBusqueda | null>("fn_buscar_cedula", { p_cedula: cedula });
 }
@@ -57,8 +55,6 @@ export async function cerrarSesion() {
   redirect("/");
 }
 
-// ---------------------------------------------------------------- votantes
-
 export interface DatosVotante {
   nombre: string;
   apellido: string;
@@ -77,8 +73,6 @@ export async function eliminarVotante(id: string) {
   return ejecutar("fn_votante_eliminar", { p_token: await conToken(), p_id: id }, "/panel");
 }
 
-// ---------------------------------------------------------------- perfil
-
 export async function guardarPerfil(nombre: string, usuario: string, telefono: string, email: string) {
   return ejecutar<Usuario>(
     "fn_perfil_guardar",
@@ -90,8 +84,6 @@ export async function guardarPerfil(nombre: string, usuario: string, telefono: s
 export async function cambiarClave(actual: string, nueva: string) {
   return ejecutar("fn_cambiar_password", { p_token: await conToken(), p_actual: actual, p_nueva: nueva });
 }
-
-// ---------------------------------------------------------------- admin
 
 export async function guardarCoordinador(
   id: string | null,

@@ -1,7 +1,6 @@
 import { iniciales } from "@/lib/formato";
 import type { Config } from "@/lib/tipos";
 
-/** Logo del comité (o sus iniciales si aún no se ha subido un logo). */
 export function Logo({ cfg, size = 44, className = "" }: { cfg: Config; size?: number; className?: string }) {
   if (cfg.logo) {
     return (
