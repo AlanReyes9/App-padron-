@@ -67,7 +67,7 @@ export async function GET(req: Request) {
   const ws = wb.addWorksheet("Padrón", {
     views: [{ state: "frozen", ySplit: 7, showGridLines: false }],
     pageSetup: {
-      paperSize: 5, // Legal
+      paperSize: 5,
       orientation: "landscape",
       fitToPage: true,
       fitToWidth: 1,
@@ -79,7 +79,6 @@ export async function GET(req: Request) {
   });
   ws.columns = columnas.map((c) => ({ width: c.w }));
 
-  // ---------- Encabezado con logo
   const fill = (argb: string) => ({ type: "pattern" as const, pattern: "solid" as const, fgColor: { argb } });
   for (let r = 1; r <= 3; r++) for (let c = 1; c <= n; c++) ws.getCell(r, c).fill = fill(AZUL_OSCURO);
   ws.getRow(1).height = 30;
@@ -112,7 +111,6 @@ export async function GET(req: Request) {
   banda.fill = fill(CELESTE);
   ws.getRow(4).height = 24;
 
-  // ---------- Datos del reporte
   const fecha = new Date().toLocaleString("es-DO", { timeZone: "America/Santo_Domingo", dateStyle: "long", timeStyle: "short" });
   const filtrosTxt = [
     f.provincia && `Provincia: ${f.provincia}`,
@@ -132,7 +130,6 @@ export async function GET(req: Request) {
   ws.getRow(6).height = 20;
   for (const r of [5, 6]) ws.getRow(r).eachCell((c) => (c.font = { ...c.font, size: 10.5 }));
 
-  // ---------- Encabezados de columnas
   const hr = ws.getRow(7);
   columnas.forEach((c, i) => {
     const cell = hr.getCell(i + 1);
@@ -144,7 +141,6 @@ export async function GET(req: Request) {
   });
   hr.height = 26;
 
-  // ---------- Filas
   votantes.forEach((v, i) => {
     const valores = [
       i + 1,
@@ -170,7 +166,6 @@ export async function GET(req: Request) {
   });
   if (votantes.length) ws.autoFilter = { from: { row: 7, column: 1 }, to: { row: 7 + votantes.length, column: n } };
 
-  // ---------- Totales y firma
   const fin = ws.rowCount + 2;
   ws.mergeCells(fin, 1, fin, 4);
   const tot = ws.getCell(fin, 1);

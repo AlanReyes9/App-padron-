@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ClipboardList, FileSpreadsheet, LayoutDashboard, LogIn, ShieldCheck, UsersRound } from "lucide-react";
+import { LayoutDashboard, LogIn, UsersRound } from "lucide-react";
 import { configPublica } from "@/lib/api";
 import { usuarioActual } from "@/lib/sesion";
 import { Logo } from "@/components/Marca";
@@ -77,28 +77,6 @@ export default async function Inicio() {
         <svg className="absolute bottom-0 left-0 w-full text-[#f4f7fc]" viewBox="0 0 1440 60" preserveAspectRatio="none" aria-hidden>
           <path fill="currentColor" d="M0 60V30C240 0 480 0 720 20s480 40 720 10v30H0Z" />
         </svg>
-      </section>
-
-      <section className="mx-auto max-w-6xl px-5 py-16">
-        <div className="mb-10 text-center">
-          <p className="text-sm font-bold tracking-widest text-prm-600 uppercase">Organización territorial</p>
-          <h2 className="mt-2 text-3xl font-extrabold text-prm-950">Un padrón ordenado, seguro y al día</h2>
-        </div>
-        <div className="grid gap-5 md:grid-cols-3">
-          {[
-            { i: ClipboardList, t: "Registro por coordinador", d: "Cada coordinador inscribe a sus simpatizantes y gestiona su propia lista." },
-            { i: ShieldCheck, t: "Cédula única", d: "Una persona solo puede registrarse una vez en todo el sistema, sin duplicados." },
-            { i: FileSpreadsheet, t: "Padrón en Excel", d: "Descarga listados con formato de padrón, logo y filtros por provincia, sector y circunscripción." },
-          ].map(({ i: Icono, t, d }) => (
-            <div key={t} className="card p-6 transition hover:-translate-y-1 hover:shadow-xl">
-              <span className="grid size-12 place-items-center rounded-2xl bg-prm-50 text-prm-700 ring-1 ring-prm-100">
-                <Icono className="size-6" />
-              </span>
-              <h3 className="mt-4 text-lg font-bold text-slate-900">{t}</h3>
-              <p className="mt-1 text-sm text-slate-500">{d}</p>
-            </div>
-          ))}
-        </div>
       </section>
 
       <footer className="border-t border-slate-200 bg-white">
