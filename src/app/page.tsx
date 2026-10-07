@@ -15,7 +15,7 @@ export default async function Inicio() {
     <main className="min-h-screen">
       <section className="bg-hero relative overflow-hidden text-white">
         <div className="bg-grid absolute inset-0 [mask-image:linear-gradient(to_bottom,black,transparent)]" />
-        <div className="absolute -top-24 -right-24 size-96 rounded-full bg-celeste/20 blur-3xl" />
+        <div className="absolute -top-24 -right-24 size-96 rounded-full bg-oro/20 blur-3xl" />
 
         <header className="relative mx-auto flex max-w-6xl items-center justify-between gap-4 px-5 py-5">
           <div className="flex items-center gap-3">
@@ -39,10 +39,10 @@ export default async function Inicio() {
         <div className="relative mx-auto grid max-w-6xl items-start gap-10 px-5 pt-8 pb-20 lg:grid-cols-[1.25fr_1fr] lg:pt-14 lg:pb-28">
           <div>
             <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-semibold ring-1 ring-white/20">
-              <span className="size-2 animate-pulse rounded-full bg-celeste" /> Padrón {new Date().getFullYear()}
+              <span className="size-2 animate-pulse rounded-full bg-oro" /> Padrón {new Date().getFullYear()}
             </span>
             <h1 className="mt-5 text-4xl leading-[1.05] font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
-              Consulta si estás en <span className="bg-gradient-to-r from-celeste to-white bg-clip-text text-transparent">nuestro padrón</span>
+              Consulta si estás en <span className="bg-gradient-to-r from-oro to-white bg-clip-text text-transparent">nuestro padrón</span>
             </h1>
             <p className="mt-4 max-w-xl text-base text-prm-100 sm:text-lg">
               Escribe tu número de cédula y verifica tus datos de registro, tu sector, tu circunscripción y el coordinador que te
@@ -55,7 +55,7 @@ export default async function Inicio() {
 
           <div id="acceso" className="scroll-mt-6">
             <div className="card relative overflow-hidden p-6 text-slate-800 sm:p-8">
-              <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-prm-700 via-prm-500 to-celeste" />
+              <div className="absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-prm-700 via-prm-500 to-oro" />
               {usuario ? (
                 <div className="space-y-4 text-center">
                   <Logo cfg={cfg} size={64} className="mx-auto ring-1 ring-slate-200" />

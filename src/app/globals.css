@@ -1,18 +1,19 @@
 @import "tailwindcss";
 
 @theme {
-  --color-prm-950: #031a45;
-  --color-prm-900: #062a6b;
-  --color-prm-800: #0a3a8f;
-  --color-prm-700: #0b48b0;
-  --color-prm-600: #1059d1;
-  --color-prm-500: #2272ea;
-  --color-prm-400: #4b94f5;
-  --color-prm-300: #86b9fa;
-  --color-prm-200: #bcd8fd;
-  --color-prm-100: #e1edfe;
-  --color-prm-50: #f2f7ff;
-  --color-celeste: #36b7f0;
+  --color-prm-950: #021a3d;
+  --color-prm-900: #03295c;
+  --color-prm-800: #003a78;
+  --color-prm-700: #00478e;
+  --color-prm-600: #0a5bb0;
+  --color-prm-500: #1f73d0;
+  --color-prm-400: #4d93e3;
+  --color-prm-300: #8bb8ef;
+  --color-prm-200: #c0d8f7;
+  --color-prm-100: #e3eefc;
+  --color-prm-50: #f3f8fe;
+  --color-oro: #e8a33d;
+  --color-oro-claro: #f5c27a;
   --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
 }
 
@@ -45,9 +46,9 @@ body {
 
 .bg-hero {
   background:
-    radial-gradient(1200px 500px at 85% -10%, rgba(54, 183, 240, .35), transparent 60%),
-    radial-gradient(900px 500px at -10% 110%, rgba(34, 114, 234, .45), transparent 60%),
-    linear-gradient(135deg, #031a45 0%, #0a3a8f 55%, #1059d1 100%);
+    radial-gradient(1200px 500px at 85% -10%, rgba(232, 163, 61, .28), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(31, 115, 208, .45), transparent 60%),
+    linear-gradient(135deg, #021a3d 0%, #003a78 50%, #00478e 100%);
 }
 .bg-grid {
   background-image: linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),

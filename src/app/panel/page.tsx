@@ -75,7 +75,7 @@ function Barras({ titulo, icono, datos, max }: { titulo: string; icono: React.Re
                 <span className="font-bold text-prm-800 tabular-nums">{d.v.toLocaleString("es-DO")}</span>
               </div>
               <div className="h-2.5 overflow-hidden rounded-full bg-prm-50">
-                <div className="h-full rounded-full bg-gradient-to-r from-prm-700 to-celeste" style={{ width: `${(d.v / max) * 100}%` }} />
+                <div className="h-full rounded-full bg-gradient-to-r from-prm-700 to-oro" style={{ width: `${(d.v / max) * 100}%` }} />
               </div>
             </li>
           ))}

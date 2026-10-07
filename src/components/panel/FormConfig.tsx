@@ -107,7 +107,7 @@ export function FormConfig({ cfg }: { cfg: Config }) {
               <p className="text-xs text-prm-200">{lema}</p>
             </div>
           </div>
-          <div className="bg-celeste px-4 py-1.5 text-center text-xs font-bold tracking-widest text-prm-950">PADRÓN ELECTORAL</div>
+          <div className="bg-oro px-4 py-1.5 text-center text-xs font-bold tracking-widest text-prm-950">PADRÓN ELECTORAL</div>
           <div className="space-y-1.5 p-4">
             {[1, 2, 3].map((i) => (
               <div key={i} className={`h-3 rounded ${i % 2 ? "bg-slate-100" : "bg-prm-50"}`} />

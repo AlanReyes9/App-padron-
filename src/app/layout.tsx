@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
   };
 }
 
-export const viewport: Viewport = { themeColor: "#0a3a8f" };
+export const viewport: Viewport = { themeColor: "#00478e" };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (

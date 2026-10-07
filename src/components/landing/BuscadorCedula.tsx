@@ -41,7 +41,7 @@ export function BuscadorCedula() {
             className="w-full bg-transparent py-3.5 text-lg font-semibold tracking-wider text-slate-900 outline-none placeholder:font-normal placeholder:text-slate-400"
           />
         </label>
-        <button disabled={cargando} className="btn bg-celeste px-6 py-3.5 text-base text-prm-950 hover:bg-sky-300">
+        <button disabled={cargando} className="btn bg-oro px-6 py-3.5 text-base text-prm-950 hover:bg-oro-claro">
           {cargando ? <Loader2 className="size-5 animate-spin" /> : <Search className="size-5" />}
           Consultar
         </button>

@@ -2,15 +2,26 @@ import ExcelJS from "exceljs";
 import { configPublica, rpc } from "@/lib/api";
 import { token, usuarioActual } from "@/lib/sesion";
 import { formatoCedula, formatoTelefono } from "@/lib/formato";
+import { LOGO_PRM } from "@/components/Marca";
 import type { Coordinador, Votante } from "@/lib/tipos";
 
 export const dynamic = "force-dynamic";
 
-const AZUL = "FF0A3A8F";
-const AZUL_OSCURO = "FF062A6B";
-const CELESTE = "FF36B7F0";
-const ZEBRA = "FFF2F7FF";
+const AZUL = "FF00478E";
+const AZUL_OSCURO = "FF03295C";
+const ORO = "FFE8A33D";
+const ZEBRA = "FFF3F8FE";
 const BORDE = { style: "thin" as const, color: { argb: "FFD3DDEF" } };
+
+async function logoPrm(origen: string) {
+  try {
+    const res = await fetch(`${origen}${LOGO_PRM}`);
+    if (!res.ok) return null;
+    return `data:image/png;base64,${Buffer.from(await res.arrayBuffer()).toString("base64")}`;
+  } catch {
+    return null;
+  }
+}
 
 export async function GET(req: Request) {
   const usuario = await usuarioActual();
@@ -85,9 +96,10 @@ export async function GET(req: Request) {
   ws.getRow(2).height = 22;
   ws.getRow(3).height = 18;
 
-  if (cfg.logo?.startsWith("data:image/")) {
-    const ext = cfg.logo.slice(11, cfg.logo.indexOf(";")) === "jpeg" ? "jpeg" : "png";
-    const id = wb.addImage({ base64: cfg.logo, extension: ext });
+  const logo = cfg.logo?.startsWith("data:image/") ? cfg.logo : await logoPrm(new URL(req.url).origin);
+  if (logo) {
+    const ext = logo.slice(11, logo.indexOf(";")) === "jpeg" ? "jpeg" : "png";
+    const id = wb.addImage({ base64: logo, extension: ext });
     ws.addImage(id, { tl: { col: 0.15, row: 0.15 }, ext: { width: 82, height: 82 } });
   }
 
@@ -108,7 +120,7 @@ export async function GET(req: Request) {
   banda.value = "PADRÓN ELECTORAL";
   banda.font = { name: "Calibri", size: 14, bold: true, color: { argb: AZUL_OSCURO } };
   banda.alignment = { vertical: "middle", horizontal: "center" };
-  banda.fill = fill(CELESTE);
+  banda.fill = fill(ORO);
   ws.getRow(4).height = 24;
 
   const fecha = new Date().toLocaleString("es-DO", { timeZone: "America/Santo_Domingo", dateStyle: "long", timeStyle: "short" });
