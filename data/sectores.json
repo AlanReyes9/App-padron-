@@ -1,0 +1,3502 @@
+[
+{
+"provincia": "Azua",
+"sector": "Azua",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Estebanía",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Guayabal",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Las Charcas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Las Yayas de Viajama",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Padre Las Casas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Peralta",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Pueblo Viejo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Sabana Yegua",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Azua",
+"sector": "Tábara Arriba",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Bahoruco",
+"sector": "Galván",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Bahoruco",
+"sector": "Los Ríos",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Bahoruco",
+"sector": "Neiba",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Bahoruco",
+"sector": "Tamayo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Bahoruco",
+"sector": "Villa Jaragua",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Barahona",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Cabral",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "El Peñón",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Enriquillo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Fundación",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Jaquimeyes",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "La Ciénaga",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Las Salinas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Paraíso",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Polo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Barahona",
+"sector": "Vicente Noble",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Dajabón",
+"sector": "Dajabón",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Dajabón",
+"sector": "El Pino",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Dajabón",
+"sector": "Loma de Cabrera",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Dajabón",
+"sector": "Partido",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Dajabón",
+"sector": "Restauración",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "24 de Abril",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "30 de Mayo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Altos de Arroyo Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Arroyo Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Arroyo Manzano",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Atala",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Bella Vista",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Buenos Aires (Mirador)",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Centro Olímpico",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Centro de los Héroes",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Cerros de Arroyo Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ciudad Colonial",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ciudad Nueva",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ciudad Universitaria",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Cristo Rey",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Domingo Savio",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "El Cacique",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "El Millón",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche Capotillo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche Espaillat",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche La Fe",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche Luperón",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche Naco",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Ensanche Quisqueya",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Evaristo Morales",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Gazcue",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "General Antonio Duvergé",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Gualey",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Honduras del Norte",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Honduras del Oeste",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Jardines del Sur",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Jardín Botánico",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Jardín Zoológico",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Julieta Morales",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Agustina",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Castellana",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Ciénaga",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Esperilla",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Hondonada",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Isabela",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Julia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "La Zurza",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Las Praderas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Cacicazgos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Guandules",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Jardines",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Peralejos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Praditos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Prados",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Próceres",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Restauradores",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Los Ríos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "María Auxiliadora",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Mata Hambre",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Mejoramiento Social",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Mirador Norte",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Mirador Sur",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Miraflores",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Miramar",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Nuestra Señora de la Paz",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Nuevo Arroyo Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Palma Real",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Paraíso",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Paseo de los Indios",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Piantini",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Renacimiento",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "San Carlos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "San Diego",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "San Gerónimo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "San Juan Bosco",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Serrallés",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Simón Bolívar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Tropical Metaldom",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Viejo Arroyo Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Villa Consuelo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Villa Francisca",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Villa Juana",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Distrito Nacional",
+"sector": "Villas Agrícolas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Duarte",
+"sector": "Arenoso",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "Castillo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "Hostos",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "Las Guáranas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "Pimentel",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "San Francisco de Macorís",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Duarte",
+"sector": "Villa Riva",
+"circunscripcion": "Única"
+},
+{
+"provincia": "El Seibo",
+"sector": "El Seibo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "El Seibo",
+"sector": "Miches",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "Bánica",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "Comendador",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "El Llano",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "Hondo Valle",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "Juan Santiago",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Elías Piña",
+"sector": "Pedro Santana",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Espaillat",
+"sector": "Cayetano Germosén",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Espaillat",
+"sector": "Gaspar Hernández",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Espaillat",
+"sector": "Jamao Al Norte",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Espaillat",
+"sector": "Moca",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Espaillat",
+"sector": "San Víctor",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hato Mayor",
+"sector": "El Valle",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hato Mayor",
+"sector": "Hato Mayor",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hato Mayor",
+"sector": "Sabana de la Mar",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hermanas Mirabal",
+"sector": "Salcedo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hermanas Mirabal",
+"sector": "Tenares",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Hermanas Mirabal",
+"sector": "Villa Tapia",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "Cristóbal",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "Duvergé",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "Jimaní",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "La Descubierta",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "Mella",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Independencia",
+"sector": "Postrer Río",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Altagracia",
+"sector": "Higüey",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Altagracia",
+"sector": "San Rafael del Yuma",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Romana",
+"sector": "Guaymate",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Romana",
+"sector": "La Romana",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Romana",
+"sector": "Villa Hermosa",
+"circunscripcion": "Única"
+},
+{
+"provincia": "La Vega",
+"sector": "Buena Vista",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "La Vega",
+"sector": "Constanza",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "La Vega",
+"sector": "El Ranchito",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "La Vega",
+"sector": "Jarabacoa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "La Vega",
+"sector": "Jima Abajo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "La Vega",
+"sector": "La Sabina",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "La Vega",
+"sector": "La Vega",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "La Vega",
+"sector": "Manabao",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "La Vega",
+"sector": "Rincón",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "La Vega",
+"sector": "Río Verde Arriba",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "La Vega",
+"sector": "Tireo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "María Trinidad Sánchez",
+"sector": "Cabrera",
+"circunscripcion": "Única"
+},
+{
+"provincia": "María Trinidad Sánchez",
+"sector": "El Factor",
+"circunscripcion": "Única"
+},
+{
+"provincia": "María Trinidad Sánchez",
+"sector": "Nagua",
+"circunscripcion": "Única"
+},
+{
+"provincia": "María Trinidad Sánchez",
+"sector": "Río San Juan",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monseñor Nouel",
+"sector": "Bonao",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monseñor Nouel",
+"sector": "Maimón",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monseñor Nouel",
+"sector": "Piedra Blanca",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Castañuelas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Guayubín",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Las Matas de Santa Cruz",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Monte Cristi",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Pepillo Salcedo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Cristi",
+"sector": "Villa Vásquez",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Plata",
+"sector": "Bayaguana",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Plata",
+"sector": "Monte Plata",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Plata",
+"sector": "Peralvillo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Plata",
+"sector": "Sabana Grande de Boyá",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Monte Plata",
+"sector": "Yamasá",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Pedernales",
+"sector": "Oviedo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Pedernales",
+"sector": "Pedernales",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Peravia",
+"sector": "Baní",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Peravia",
+"sector": "Matanzas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Peravia",
+"sector": "Nizao",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Altamira",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Belloso",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Cabarete",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Estero Hondo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Estrecho",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Guananico",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Imbert",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "La Isabela",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "La Jaiba",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Los Hidalgos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Luperón",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Maimón",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Navas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Puerto Plata",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Río Grande",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Sabaneta de Yásica",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Sosúa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Villa Isabela",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Villa Montellano",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Puerto Plata",
+"sector": "Yásica Arriba",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Samaná",
+"sector": "Las Terrenas",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Samaná",
+"sector": "Samaná",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Samaná",
+"sector": "Sánchez",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Cambita Garabitos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Doña Ana",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "El Carril",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "El Pueblecito",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Haina",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Hato Damas",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "La Cuchilla",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Los Cacaos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Medina",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Nigua",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Sabana Grande de Palenque",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "San Cristóbal",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "San José del Puerto",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Villa Altagracia",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San Cristóbal",
+"sector": "Yaguate",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "San José de Ocoa",
+"sector": "Rancho Arriba",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San José de Ocoa",
+"sector": "Sabana Larga",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San José de Ocoa",
+"sector": "San José de Ocoa",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "Bohechío",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "El Cercado",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "Juan de Herrera",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "Las Matas de Farfán",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "San Juan",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Juan",
+"sector": "Vallejuelo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "Consuelo",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "Guayacanes",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "Los Llanos",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "Quisqueya",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "Ramón Santana",
+"circunscripcion": "Única"
+},
+{
+"provincia": "San Pedro de Macorís",
+"sector": "San Pedro de Macorís",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Santiago",
+"sector": "Arroyo Hondo (Santiago)",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Baitoa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Baracoa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Bella Vista",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Camboya",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Canabacoa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Canca La Piedra",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Centro de la Ciudad",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Cerros de Gurabo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Cienfuegos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "El Caimito",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "El Ensueño",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "El Limón",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "El Rubio",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Ensanche Bermúdez",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Ensanche Espaillat (Santiago)",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Ensanche Libertad",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Guayabal",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Gurabo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Hato Mayor (Santiago)",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Hato del Yaque",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Hoya del Caimito",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Juncalito",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Jánico",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "La Canela",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "La Cuesta",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "La Herradura",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "La Joya",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "La Otra Banda",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "La Unión",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Las Charcas (Santiago)",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Las Palomas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Las Placetas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Licey (zona sur)",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Licey al Medio",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Cerros",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Jardines Metropolitanos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Jazmines",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Pepines",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Reyes",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Los Salados",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Mejoramiento Social",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Monte Rico",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Nibaje",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Palmar Arriba",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Pedro García",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Pekín",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Pueblo Nuevo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Puñal",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Rafey",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Sabana Iglesia",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "San Francisco de Jacagua",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "San José de las Matas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Santiago Oeste",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago",
+"sector": "Tamboril",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Villa Bisonó",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Villa González",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Villa Olga",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santiago",
+"sector": "Villa Olímpica",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santiago",
+"sector": "Villa Progreso",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santiago Rodríguez",
+"sector": "Monción",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Santiago Rodríguez",
+"sector": "Sabaneta",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Santiago Rodríguez",
+"sector": "Villa Los Almácigos",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Agua Loca",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Alma Rosa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Alma Rosa II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Altos De Cancino",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Altos del Poli",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ana Virginia",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Andrés",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Arcoiris",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Arpe I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Arpe II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Barrio Landia",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Batey Montserrat",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bayona",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bello Campo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Ambar",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Anacaona",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Brisas Del Edén",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Brisas del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Buenaventura",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Canaán",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Cancela",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Canta La Rana",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. El Cachon de la Rubia",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. El Dique",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. El Mango",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. El Paredon",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Francisco del Rosario Sánchez",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. John F. Kennedy",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Campana",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Caña",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Isabelita",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Policia",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Tablita",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Toronja",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. La Ureña",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Las Enfermeras",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Las Flores",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Las Lilas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Los Coquitos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Los Restauradores",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Los Solares",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Margara",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Nuevo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Nuevo Amanecer",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Oxigeno",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Paraiso Oriental",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Rivera Del Ozama",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. San Bartolo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. San Ramón",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Valle Del Este",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Villa Esfuerzo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo. Villa Liberación",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Bo.Puerto Rico",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Boca Chica",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa Oriental I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa Oriental II-V",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa Oriental VI-VII",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa Oriental VIII",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisa de las Américas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisas Del Mar",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Brisas del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Buenos Aires de Herrera",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Calero",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cancino",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cancino Adentro",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cancino Afuera",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cancino I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cancino II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Carolina",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Cerromar",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad Ecológica De Las Américas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad Kolosal",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad Modelo",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad Satélite",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad Satélite III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad del Almirante",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudad del Este II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ciudades de España",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Colinas Del Este",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Comunidades Catalanas",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Conjunto Hab. Los Tres Ojos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Corales del Sur",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Damer III",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Damer IV-V",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Delta Amarilis I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Delta Amarilis II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Dinna I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Duarte (Herrera)",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Alba",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Almendro",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Almirante",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Almirante Adentro",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Brisal",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Café de Herrera",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Invi",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Maimón",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Rosal",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "El Tamarindo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Engombe",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Enriquillo (Herrera)",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ens. Alma Rosa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ens. Isabelita",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ens. Los Tainos",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ensanche Felicidad",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ensanche Ozama",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Eugenio Ma. De Hostos",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Exclusividad del Italia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Francisco del Rosario Sanchez (Las Frutas)",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Futuro Curazao",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Guaricano",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Guillermo Antonio V",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Hainamosa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Hainamosa II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Hamarap",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Hato Nuevo",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Hato Viejo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Herradura",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Herrera",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Herva",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Higüero",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Invi-Dorex",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Invi-Villa Progreso del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Invimosa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Invivienda",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Isabel",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Issafapol",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Issfa-Hainamosa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ivette",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Jacagua (SDN)",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Jardines De Alma Rosa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Jardines de la Charles",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Jardines del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Katanga",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Barquita",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Caleta",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Corporanea",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Cuaba",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Esperanza",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Filipina",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Francia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Grúa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Guáyiga",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Isabelita",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Javilla",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Milagrosa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Piña (Los Alcarrizos)",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Ureña",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "La Victoria",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Acacias",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Américas",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Asturias",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Caobas",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Enfermeras",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Estrellas",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Palmas De Alma Rosa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Las Palmas de Herrera",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Laura MarieI",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Lechería",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Libertador de Herrera",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Alcarrizos",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Alcarrizos Viejo (Herrera)",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Americanos",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Barrancones de Los Mina",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Casabes",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Educadores",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Faralllones",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Frailes",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Frailes I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Frailes II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Guaricanos",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Mameyes",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Mina Norte",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Mina Sur",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Minas Viejo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Molinos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Pinos",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Profesionales",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Rosales",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Tres Brazos",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Tres Ojos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Trinitarios",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Los Trinitarios II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Loteria",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Lotificación del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Lucerna",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mandinga",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Manoguayabo",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Maquiteria",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Marañón",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Marlin IV",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mendoza",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mi Casa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mi Hogar",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mi Sueño I-II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Mirador del Ozama",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Molinuevo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Narciza",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Nueva Jerusalen",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Nuevo Amanecer",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Nuevo Renacer",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Nuevo Sol Naciente",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Orquidea I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Orquidea II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Orquidea III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ozama",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Palmarejo-Villa Linda",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Pantoja",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Parque Del Este (El Pensador)",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Parque Del Este II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Parque del Este III",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Pedro Brand",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Perla Antillana",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Pidoca",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Portofino",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Prado Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Prados Del Cachón",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Profesionales Agropecuarios",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Proyecto Turistico San Souci",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Pueblo Nuevo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Pueblo Nuevo (Los Alcarrizos)",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Puerca Brava",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Radiante Amanecer",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ralma",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Ramón Matías Mella",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rep. Alma Rosa",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rep. Los Tres Ojos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rep. Patria Mella",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rep. Santa Lucía",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rep. Villa Carmen",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Acuario",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Altagracia II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Altavista I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Amalia",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Amapola",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Amarilis III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Amarilis IV",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Arpe IV",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Belinda",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Belleza De Los Altos",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Charlotte",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Don Miguel",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Don Oscar",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Don Paco III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Doña Lidia",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Ebano",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. El Bosque",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Estrella del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Fedomar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Fernandez Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Florivic",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Idalia I",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Ines II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Jardines del V Centenario",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Juan Carlos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. La Moneda",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. La Moneda II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. La Primavera",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Las Palmeras",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Las Praderas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Las Terrazas",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Los Maestros",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Los Tres Ojos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Magdalen",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Maranatha",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Mella",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Mendoza",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Milenium",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Mirador del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Monty I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Nancy Nadesha (Monte Verde, Res. Clarimel)",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Oasis",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Oriental",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Oriente",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Paco I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Paco II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Parque del Este",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Paseo Del Este II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Paseo Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Pradera Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Pradera Tropical",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Proesa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Reyoli",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Rosario Mieses",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Shalom",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Sharae",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Terrazas del Atlantico",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Tito III",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Tito IV",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Vereda Tropical",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Viñas Del Mar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Res. Wendy",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Residencial Apolo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Residencial Del Este",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Residencial Islas Canarias",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Residencial San Souci",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Rosales del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Sabana Perdida",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "San Antonio",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "San Antonio de Guerra",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "San José de Mendoza",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "San Lorenzo",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "San Pablo II (Los Cartones)",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Santo Domingo Norte",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Santo Domingo Oeste",
+"circunscripcion": "Circunscripción 4"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Savica",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Savica (Los Alcarrizos)",
+"circunscripcion": "Circunscripción 5"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Simonico",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Tropical del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Amanda I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Amanda II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Ana Teresa Balaguer",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Argentina",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Arismar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Brisa Fresca III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Buenaventura",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Buenaventura II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Cabirma Del Este I",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Cabirna Del Este II",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Cancino",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Capotillo",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Carola",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Cerros Del Ozama",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Charles de Gaulle",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Corambar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Doña Lucia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Duarte",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. El Cachon",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. El Doral",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. El Mirador Del Ozama",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. El Palmar",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. El Tamarindo (Paseo De Las Rosas)",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Eva Josefina",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Fernandez II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Flor Del Tamarindo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Franconia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Genésis",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Italia",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Jardines Del Ozama",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Jardines de Isabel",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Jardines del Cachon",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Jeanca II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Josue",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. La Rubia (Universo III)",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Las Americas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Las Americas II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Lomisa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Antares",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Corales",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Molinos",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Trabajadores",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Triunfadores",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Los Ángeles",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Lucena del Mar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Luz Maria",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Marbella I",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Marbella II",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Marbella III",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Margarita",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Margarita II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Maria Mercedes",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. María Dolores",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. María Trinidad Sánchez",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. María del Mar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Mendoza I",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Mendoza II",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Mercedes",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Mil Flores",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Moisés",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Paraiso",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Paraiso Oriental",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Paraiso del Mar",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Pradera del Tamarindo",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Prados del Este",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Ramón Matías Mella",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Real Cancino",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Regina",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Urb. Riviera del Caribe",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Valle de las Américas",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Vecinos Unidos",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Vietnam",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Adela",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Carmen",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Duarte",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Eloisa",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Esperanza",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Faro",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Hermosa Invi-Cea",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa María",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Mella",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Mella Centro",
+"circunscripcion": "Circunscripción 6"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Olímpica",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villa Tropicalia",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Villas San Isidro",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Vista Hermosa",
+"circunscripcion": "Circunscripción 2"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Vista del Sol",
+"circunscripcion": "Circunscripción 3"
+},
+{
+"provincia": "Santo Domingo",
+"sector": "Viviendas Aisladas Aniversario",
+"circunscripcion": "Circunscripción 1"
+},
+{
+"provincia": "Sánchez Ramírez",
+"sector": "Cevicos",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Sánchez Ramírez",
+"sector": "Cotuí",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Sánchez Ramírez",
+"sector": "Fantino",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Sánchez Ramírez",
+"sector": "La Mata",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Valverde",
+"sector": "Esperanza",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Valverde",
+"sector": "Laguna Salada",
+"circunscripcion": "Única"
+},
+{
+"provincia": "Valverde",
+"sector": "Mao",
+"circunscripcion": "Única"
+}
+]

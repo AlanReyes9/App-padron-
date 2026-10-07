@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@theme {
+  --color-prm-950: #031a45;
+  --color-prm-900: #062a6b;
+  --color-prm-800: #0a3a8f;
+  --color-prm-700: #0b48b0;
+  --color-prm-600: #1059d1;
+  --color-prm-500: #2272ea;
+  --color-prm-400: #4b94f5;
+  --color-prm-300: #86b9fa;
+  --color-prm-200: #bcd8fd;
+  --color-prm-100: #e1edfe;
+  --color-prm-50: #f2f7ff;
+  --color-celeste: #36b7f0;
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background: #f4f7fc;
+  color: #0f1b33;
+}
+
+@utility input {
+  @apply w-full rounded-xl border border-slate-200 bg-white px-3.5 py-2.5 text-sm text-slate-900 shadow-sm outline-none transition placeholder:text-slate-400 focus:border-prm-500 focus:ring-4 focus:ring-prm-100 disabled:bg-slate-50 disabled:text-slate-500;
+}
+@utility label {
+  @apply mb-1.5 block text-xs font-semibold tracking-wide text-slate-600 uppercase;
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition active:scale-[.98] disabled:cursor-not-allowed disabled:opacity-60;
+}
+@utility btn-primary {
+  @apply btn bg-prm-700 text-white shadow-lg shadow-prm-700/25 hover:bg-prm-800;
+}
+@utility btn-light {
+  @apply btn border border-slate-200 bg-white text-slate-700 hover:border-prm-300 hover:text-prm-800;
+}
+@utility btn-danger {
+  @apply btn bg-red-600 text-white hover:bg-red-700;
+}
+@utility card {
+  @apply rounded-2xl border border-slate-200/70 bg-white shadow-[0_1px_2px_rgba(15,27,51,.04),0_8px_24px_-12px_rgba(15,27,51,.12)];
+}
+
+.bg-hero {
+  background:
+    radial-gradient(1200px 500px at 85% -10%, rgba(54, 183, 240, .35), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(34, 114, 234, .45), transparent 60%),
+    linear-gradient(135deg, #031a45 0%, #0a3a8f 55%, #1059d1 100%);
+}
+.bg-grid {
+  background-image: linear-gradient(rgba(255,255,255,.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 44px 44px;
+}
