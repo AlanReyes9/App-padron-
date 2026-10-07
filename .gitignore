@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Datos personales exportados (solo van en el zip)
+database/datos_actuales.sql
+!.env.example

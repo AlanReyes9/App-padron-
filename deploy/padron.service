@@ -1,0 +1,19 @@
+# /etc/systemd/system/padron.service
+# Ajusta WorkingDirectory y User a tu instalación.
+[Unit]
+Description=Padrón - Comité de Base
+After=network.target postgresql.service
+
+[Service]
+Type=simple
+User=padron
+WorkingDirectory=/opt/padron
+EnvironmentFile=/opt/padron/.env.local
+Environment=NODE_ENV=production
+Environment=PORT=3000
+ExecStart=/usr/bin/npm start
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

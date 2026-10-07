@@ -1,3 +1,5 @@
+import { readFile } from "node:fs/promises";
+import path from "node:path";
 import ExcelJS from "exceljs";
 import { configPublica, rpc } from "@/lib/api";
 import { token, usuarioActual } from "@/lib/sesion";
@@ -14,6 +16,10 @@ const ZEBRA = "FFF3F8FE";
 const BORDE = { style: "thin" as const, color: { argb: "FFD3DDEF" } };
 
 async function logoPrm(origen: string) {
+  try {
+    const disco = await readFile(path.join(process.cwd(), "public", LOGO_PRM));
+    return `data:image/png;base64,${disco.toString("base64")}`;
+  } catch {}
   try {
     const res = await fetch(`${origen}${LOGO_PRM}`);
     if (!res.ok) return null;

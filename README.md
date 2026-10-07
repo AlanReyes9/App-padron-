@@ -10,11 +10,12 @@ Sistema para movimientos y comités de base: un administrador y varios coordinad
 
 ## Tecnología
 
-Next.js 15 + Tailwind CSS 4 en Vercel; Postgres en Supabase. Toda la lógica de permisos vive en funciones
-`SECURITY DEFINER` (`supabase/migrations/001_esquema.sql`): las tablas tienen RLS sin políticas y la app solo
-usa la clave pública para llamar a esas funciones con el token de sesión (cookie httpOnly).
+Next.js 15 + Tailwind CSS 4 y PostgreSQL. Toda la lógica de permisos vive en funciones `SECURITY DEFINER`
+(`database/instalar.sql`); la aplicación solo llama a esas funciones, con el token de sesión guardado en una cookie httpOnly.
 
-Variables de entorno: `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY`.
+La app funciona de dos formas:
+- **Servidor propio + PostgreSQL local:** variable `DATABASE_URL`. Ver **[INSTALACION.md](INSTALACION.md)**.
+- **Vercel + Supabase:** variables `SUPABASE_URL` y `SUPABASE_PUBLISHABLE_KEY`.
 
 ## Catálogo de sectores
 

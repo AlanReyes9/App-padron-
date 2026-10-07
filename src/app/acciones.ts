@@ -50,7 +50,7 @@ export async function iniciarSesion(usuario: string, clave: string): Promise<Res
   if (!r.token) return { ok: false, error: mensajeError(r.error ?? "") };
   (await cookies()).set(COOKIE, r.token, {
     httpOnly: true,
-    secure: process.env.NODE_ENV === "production",
+    secure: process.env.NODE_ENV === "production" && process.env.COOKIE_SECURE !== "false",
     sameSite: "lax",
     path: "/",
     maxAge: 60 * 60 * 24 * 7,
