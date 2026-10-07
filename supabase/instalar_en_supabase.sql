@@ -157,9 +157,7 @@ returns json language plpgsql stable security definer set search_path = public a
 declare c text := regexp_replace(coalesce(p_cedula, ''), '[^0-9]', '', 'g'); r json;
 begin
   if length(c) <> 11 then raise exception 'CEDULA_INVALIDA'; end if;
-  select json_build_object('nombre', v.nombre, 'apellido', v.apellido, 'cedula', v.cedula,
-      'provincia', v.provincia, 'sector', v.sector, 'circunscripcion', v.circunscripcion,
-      'coordinador', u.nombre, 'registrado', v.creado_en)
+  select json_build_object('nombre', v.nombre, 'apellido', v.apellido, 'cedula', v.cedula, 'coordinador', u.nombre)
     into r from public.votantes v join public.usuarios u on u.id = v.coordinador_id where v.cedula = c;
   return r;
 end $$;

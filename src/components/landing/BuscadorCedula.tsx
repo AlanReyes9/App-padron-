@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useTransition } from "react";
-import { BadgeCheck, CircleAlert, IdCard, Loader2, MapPin, Search, UserRound } from "lucide-react";
+import { BadgeCheck, CircleAlert, IdCard, Loader2, Search, UserRound } from "lucide-react";
 import { buscarCedula } from "@/app/acciones";
-import { fechaCorta, formatoCedula, soloDigitos } from "@/lib/formato";
+import { formatoCedula, soloDigitos } from "@/lib/formato";
 import type { ResultadoBusqueda } from "@/lib/tipos";
 
 type Estado = { tipo: "inicio" } | { tipo: "encontrado"; r: ResultadoBusqueda } | { tipo: "no"; cedula: string } | { tipo: "error"; msg: string };
@@ -76,35 +76,25 @@ export function BuscadorCedula() {
 function Ficha({ r }: { r: ResultadoBusqueda }) {
   return (
     <div className="overflow-hidden rounded-2xl bg-white text-slate-800 shadow-2xl">
-      <div className="flex items-center gap-3 bg-gradient-to-r from-prm-700 to-prm-500 px-5 py-3 text-white">
+      <div className="flex items-center gap-3 bg-gradient-to-r from-emerald-600 to-emerald-500 px-5 py-3 text-white">
         <BadgeCheck className="size-5" />
-        <span className="text-sm font-semibold">Registrado en el padrón</span>
-        <span className="ml-auto text-xs text-white/80">desde {fechaCorta(r.registrado)}</span>
+        <span className="font-semibold">Este usuario está registrado</span>
       </div>
-      <div className="grid gap-4 p-5 sm:grid-cols-2">
-        <div className="sm:col-span-2">
-          <p className="text-xs font-semibold tracking-wide text-slate-400 uppercase">Nombre</p>
+      <div className="space-y-4 p-5">
+        <div>
+          <p className="text-xs font-semibold tracking-wide text-slate-400 uppercase">Nombre completo</p>
           <p className="text-xl font-extrabold text-prm-950">
             {r.nombre} {r.apellido}
           </p>
           <p className="font-mono text-sm text-slate-500">{formatoCedula(r.cedula)}</p>
         </div>
-        <Dato icono={<MapPin className="size-4" />} titulo="Provincia" valor={r.provincia} />
-        <Dato icono={<MapPin className="size-4" />} titulo="Sector" valor={r.sector} />
-        <Dato icono={<MapPin className="size-4" />} titulo="Circunscripción" valor={r.circunscripcion} />
-        <Dato icono={<UserRound className="size-4" />} titulo="Registrado por" valor={r.coordinador} destacado />
-      </div>
-    </div>
-  );
-}
-
-function Dato({ icono, titulo, valor, destacado }: { icono: React.ReactNode; titulo: string; valor: string; destacado?: boolean }) {
-  return (
-    <div className={`flex items-start gap-2.5 rounded-xl p-3 ${destacado ? "bg-prm-50 ring-1 ring-prm-100" : "bg-slate-50"}`}>
-      <span className="mt-0.5 text-prm-500">{icono}</span>
-      <div>
-        <p className="text-xs font-semibold tracking-wide text-slate-400 uppercase">{titulo}</p>
-        <p className="font-semibold text-slate-800">{valor}</p>
+        <div className="flex items-center gap-2.5 rounded-xl bg-prm-50 p-3 ring-1 ring-prm-100">
+          <UserRound className="size-4 text-prm-500" />
+          <div>
+            <p className="text-xs font-semibold tracking-wide text-slate-400 uppercase">Registrado por</p>
+            <p className="font-semibold text-slate-800">{r.coordinador}</p>
+          </div>
+        </div>
       </div>
     </div>
   );

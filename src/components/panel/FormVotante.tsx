@@ -1,8 +1,8 @@
 "use client";
 
-import { useMemo, useState, useTransition } from "react";
-import { CheckCircle2, Loader2, Save } from "lucide-react";
-import { guardarVotante, type DatosVotante } from "@/app/acciones";
+import { useEffect, useMemo, useState, useTransition } from "react";
+import { CheckCircle2, CircleX, Loader2, Save } from "lucide-react";
+import { cedulaRegistrada, guardarVotante, type DatosVotante } from "@/app/acciones";
 import { Aviso } from "@/components/Modal";
 import { ComboSector, provinciasDe } from "@/components/SelectorSector";
 import { formatoCedula, soloDigitos } from "@/lib/formato";
@@ -24,10 +24,27 @@ export function FormVotante({ sectores, votante, onListo }: { sectores: Sector[]
 
   const set = (k: keyof DatosVotante, v: string) => setD((x) => ({ ...x, [k]: v }));
 
+  // Validación de la cédula en tiempo real: al completar los 11 dígitos se consulta si ya existe
+  const [estadoCedula, setEstadoCedula] = useState<"vacia" | "verificando" | "libre" | "registrada">("vacia");
+  const digitos = soloDigitos(d.cedula);
+  useEffect(() => {
+    if (digitos.length !== 11 || digitos === votante?.cedula) {
+      setEstadoCedula("vacia");
+      return;
+    }
+    let vigente = true;
+    setEstadoCedula("verificando");
+    cedulaRegistrada(digitos).then((existe) => vigente && setEstadoCedula(existe ? "registrada" : "libre"));
+    return () => {
+      vigente = false;
+    };
+  }, [digitos, votante?.cedula]);
+
   function enviar(seguir: boolean) {
     setError("");
     setExito("");
-    if (soloDigitos(d.cedula).length !== 11) return setError("La cédula debe tener 11 dígitos.");
+    if (digitos.length !== 11) return setError("La cédula debe tener 11 dígitos.");
+    if (estadoCedula === "registrada") return setError("Esta cédula ya está registrada en el sistema.");
     if (!d.provincia || !d.sector) return setError("Selecciona la provincia y el sector.");
     iniciar(async () => {
       const r = await guardarVotante(votante?.id ?? null, d);
@@ -53,7 +70,23 @@ export function FormVotante({ sectores, votante, onListo }: { sectores: Sector[]
         </div>
         <div>
           <label className="label">Cédula *</label>
-          <input className="input font-mono tracking-wider" inputMode="numeric" placeholder="000-0000000-0" value={d.cedula} onChange={(e) => set("cedula", formatoCedula(e.target.value))} required />
+          <input
+            className={`input font-mono tracking-wider ${estadoCedula === "registrada" ? "border-red-400 focus:border-red-500 focus:ring-red-100" : estadoCedula === "libre" ? "border-emerald-400" : ""}`}
+            inputMode="numeric"
+            placeholder="000-0000000-0"
+            value={d.cedula}
+            onChange={(e) => set("cedula", formatoCedula(e.target.value))}
+            required
+          />
+          {estadoCedula === "verificando" && (
+            <p className="mt-1.5 flex items-center gap-1.5 text-xs text-slate-500"><Loader2 className="size-3.5 animate-spin" /> Verificando…</p>
+          )}
+          {estadoCedula === "registrada" && (
+            <p className="mt-1.5 flex items-center gap-1.5 text-xs font-semibold text-red-600"><CircleX className="size-3.5" /> Esta cédula ya está registrada</p>
+          )}
+          {estadoCedula === "libre" && (
+            <p className="mt-1.5 flex items-center gap-1.5 text-xs font-semibold text-emerald-600"><CheckCircle2 className="size-3.5" /> Cédula disponible</p>
+          )}
         </div>
         <div>
           <label className="label">Teléfono</label>
@@ -85,11 +118,11 @@ export function FormVotante({ sectores, votante, onListo }: { sectores: Sector[]
       {exito && <Aviso tipo="ok">{exito}</Aviso>}
       <div className="flex flex-col-reverse gap-2 pt-1 sm:flex-row sm:justify-end">
         {!votante && (
-          <button type="button" disabled={cargando} onClick={() => enviar(true)} className="btn-light">
+          <button type="button" disabled={cargando || estadoCedula === "registrada"} onClick={() => enviar(true)} className="btn-light">
             Guardar y registrar otro
           </button>
         )}
-        <button disabled={cargando} className="btn-primary">
+        <button disabled={cargando || estadoCedula === "registrada"} className="btn-primary">
           {cargando ? <Loader2 className="size-4 animate-spin" /> : <Save className="size-4" />}
           {votante ? "Guardar cambios" : "Registrar"}
         </button>

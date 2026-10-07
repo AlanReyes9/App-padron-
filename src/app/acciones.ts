@@ -30,6 +30,16 @@ export async function buscarCedula(cedula: string): Promise<Resultado<ResultadoB
   return ejecutar<ResultadoBusqueda | null>("fn_buscar_cedula", { p_cedula: cedula });
 }
 
+/** Indica si la cédula ya existe en el padrón (validación en tiempo real del formulario). */
+export async function cedulaRegistrada(cedula: string): Promise<boolean> {
+  await conToken();
+  try {
+    return (await rpc<ResultadoBusqueda | null>("fn_buscar_cedula", { p_cedula: cedula })) !== null;
+  } catch {
+    return false;
+  }
+}
+
 export async function iniciarSesion(usuario: string, clave: string): Promise<Resultado<null>> {
   let r: { token?: string; error?: string; usuario?: Usuario };
   try {

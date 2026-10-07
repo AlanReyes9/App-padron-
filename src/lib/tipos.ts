@@ -55,11 +55,7 @@ export interface ResultadoBusqueda {
   nombre: string;
   apellido: string;
   cedula: string;
-  provincia: string;
-  sector: string;
-  circunscripcion: string;
   coordinador: string;
-  registrado: string;
 }
 
 export interface Filtros {

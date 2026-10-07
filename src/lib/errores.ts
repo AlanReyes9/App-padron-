@@ -17,11 +17,6 @@ const MENSAJES: Record<string, string> = {
 };
 
 export function mensajeError(raw: string): string {
-  if (raw.startsWith("CEDULA_DUPLICADA")) {
-    const quien = raw.split(":")[1]?.trim();
-    return quien
-      ? `Esta cédula ya está registrada en el sistema por el coordinador ${quien}.`
-      : "Esta cédula ya está registrada en el sistema.";
-  }
+  if (raw.startsWith("CEDULA_DUPLICADA")) return "Esta cédula ya está registrada en el sistema.";
   return MENSAJES[raw] ?? "Ocurrió un error inesperado. Inténtalo de nuevo.";
 }
